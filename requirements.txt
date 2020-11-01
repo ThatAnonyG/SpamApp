@@ -1,0 +1,3 @@
+selenium
+
+# Make sure you have google chrome and chrome driver installed
